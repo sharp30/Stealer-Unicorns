@@ -1,5 +1,6 @@
 # Stealer--Unicorns
-A Trojan stealer, acts liike a unicorns game.
+A Trojan stealer, looks like a unicorns game.
+
 
 The program steals:
   *keylogging
@@ -8,7 +9,17 @@ The program steals:
   *Running Proccess
   *Screenshots
   *Connected User and groups
- 
-The program also injects a dll - that change the computer background, and edit the computer registery.
+and writes all data into a txt file (placed in a hidden directory).
+
+The virus will also close 5 running process:
+  *Wireshark
+  *Fiddler
+  *tasklist
+  *taskmgr
+  *procexp
+  
+The program also injects a dll:
+  *Change the computer background
+  *Edit the Run directory in the computer registery.
 
 
