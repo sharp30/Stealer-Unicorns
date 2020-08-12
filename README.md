@@ -13,7 +13,7 @@ The program steals:
   * Screenshots
   * Connected User and groups.
   
-Every one minute the program writes all data into a txt file (placed in a hidden directory).
+Every a minute the program writes all data into a txt file (placed in a hidden directory).
 
 ## Processes Closing ##
 The virus will close 5 running process:
