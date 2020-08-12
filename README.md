@@ -1,5 +1,5 @@
 # Unicorn Stealer
-A Trojan stealer, looks like a unicorns game.
+A Trojan stealer, acts like a unicorns game.
 
 *The project was done during applying to a CyberSecurity company.
 
