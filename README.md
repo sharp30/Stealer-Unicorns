@@ -1,7 +1,7 @@
 # Unicorn Stealer
 A Trojan stealer, acts like a unicorns game.
 
-<i> The project was done during applying to a CyberSecurity company. <i>
+<i> The project was done during applying to a CyberSecurity company. </i>
 
 
 ## Stealing ##
