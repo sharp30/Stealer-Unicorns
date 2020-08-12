@@ -30,3 +30,7 @@ The program also injects a dll:
   - Edits the Run directory in the computer registery.
 
 
+## GUI ##
+ basic GUI done with WinForms.
+ 
+<center> <img src="https://github.com/sharp30/Stealer--Unicorns/blob/master/unicorns-gui/unicorns%20app.png" width="300" height="300"> </center>
