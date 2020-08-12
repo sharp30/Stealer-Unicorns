@@ -1,27 +1,32 @@
-# Stealer--Unicorns
+# Unicorn Stealer
 A Trojan stealer, looks like a unicorns game.
 
+*The project was done during applying to a CyberSecurity company.
 
+
+## Stealing ##
 The program steals:
   * keylogging
   * IP address the computer is talking with.
   * OS details
   * Running Proccess
   * Screenshots
-  * Connected User and groups
-and writes all data into a txt file (placed in a hidden directory).
+  * Connected User and groups.
+  
+Every one minute the program writes all data into a txt file (placed in a hidden directory).
 
-The virus will also close 5 running process:
+## Processes Closing ##
+The virus will close 5 running process:
   * Wireshark
   * Fiddler
   * tasklist
-  * taskmgr
-  * procexp
-  
+  * taskmgr - Task Manager
+  * procexp - Process Explorer
+
+## Dll Injection ##
 The program also injects a dll:
 
-  -Changes the computer background.
-
-  -Edits the Run directory in the computer registery.
+  - Changes the computer background.
+  - Edits the Run directory in the computer registery.
 
 
