@@ -7,13 +7,13 @@ A Trojan stealer, acts like a unicorns game.
 ## Stealing ##
 The program steals:
   * keylogging
-  * IP address the computer is talking with.
+  * Network Communication.
   * OS details
   * Running Proccess
   * Screenshots
-  * Connected User and groups.
+  * Windows Username and Groups.
   
-after every minute   the program writes all the data into a txt file (placed in a hidden directory).
+after every minute the program writes all the data into a txt file (placed in a hidden directory).
 
 ## Processes Closing ##
 The virus will close 5 running process:
@@ -34,3 +34,5 @@ The program also injects a dll:
  basic GUI done with WinForms.
  
 <center> <img src="https://github.com/sharp30/Stealer--Unicorns/blob/master/unicorns-gui/unicorns%20app.png" width="300" height="300"> </center>
+
+
